@@ -15,14 +15,19 @@ This is a repository to record advance research of chips-for-spiking-neural-netw
    - [Neuron Circuits](#neuron-circuits)
  <!-- - [Industry contributions](#industry-contributions) -->
 
-## Papers
-- **TrueNorth:Design and Tool Flow of a 65mW 1Million Neuron Programmable neurosynapic Chip** <font color=gray>(IBM 2015)</font>
-- **Loihi: A Neuromorphic Manycore Processor with On-Chip Learning** (Intel 2018)
-- A 4096-Neuron 1M-Synapse 3.8-pJ/SOP Spiking Neural Network With On-Chip STDP Learning and Sparse Weights in 10-nm FinFET CMOS <font color=gray>(Intel 2019)</font>
-- A Digital Neurosynaptic Core Using Embedded Crossbar Memory with 45pJ per Spike in 45nm <font color=gray>(IBM, Cornell University 2011)</font>
-- **Towards artificial general intelligence with hybird Tianjic chip architecture** <font color=gray>(Tsinghua University 2018)</font>
-- **Tianjic: A Unified and Scalable Chip Bridging Spike-Based and Continuous Neural Computation** <font color=gray>(Tsinghua University 2020)</font>
-- Always-On, Sub-300nW, Event-Driven Spiking Neural Network based on Spike-Driven Clock-Generation and Clock- and Power-Gating for an Ultra-Low-Power Intelligent Device <font color=gray>(Columbia University, Samsung Electronics 2020)</font>
+## papers
+- **truenorth:design and tool flow of a 65mw 1million neuron programmable neurosynapic chip** <font color=gray>(ibm 2015)</font>
+- **loihi: a neuromorphic manycore processor with on-chip learning** (intel 2018)
+- a 4096-neuron 1m-synapse 3.8-pj/sop spiking neural network with on-chip stdp learning and sparse weights in 10-nm finfet cmos <font color=gray>(intel 2019)</font>
+- a digital neurosynaptic core using embedded crossbar memory with 45pj per spike in 45nm <font color=gray>(ibm, cornell university 2011)</font>
+- **towards artificial general intelligence with hybird tianjic chip architecture** <font color=gray>(tsinghua university 2018)</font>
+- **tianjic: a unified and scalable chip bridging spike-based and continuous neural computation** <font color=gray>(tsinghua university 2020)</font>
+- always-on, sub-300nw, event-driven spiking neural network based on spike-driven clock-generation and clock- and power-gating for an ultra-low-power intelligent device <font color=gray>(columbia university, samsung electronics 2020)</font>
+- a 2.56-mm^2 718gops configurable spiking convolutional sparse coding accelerator in 40-nm cmos <font color=gray>(michigan university 2018)</font> <br>
+> gals, configurable convolutional core base on a 2x2 conv core. zero patch skipping to spike over **square patches**. token-based asynchronous fifo which support broadcast.
+- A 65-nm Neuromorphic Image Classification Processor With Energy-Efficient Training Through Direct Spike-Only Feedback <font color=gray>(Seoul National University 2020)</font> <br>
+> single-spike-SD learning algorithm; spike-only-backward;
+- 
 
 ## Important Topics
  
@@ -36,7 +41,8 @@ This is a repository to record advance research of chips-for-spiking-neural-netw
 ### Memristor based Spiking-Neural-Network, Computing in Memory 
 
 ### Neuron Circuits
-- **A Low-Cost High-Throughput Digital Design of Biorealistic Spiking Neuron** <font color=gray>(Nanyang Technological 2020)</font>
+- A Low-Cost High-Throughput Digital Design of Biorealistic Spiking Neuron <font color=gray>(Nanyang Technological 2020)</font>
+- An Efficient and Reconfigurable Synchronous Neuron Model Soleimani Drakakise <font color=gray>(Imperial College London 2020)</font>
  
 ### Async Circuits
 - 
