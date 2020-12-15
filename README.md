@@ -23,9 +23,9 @@ This is a repository to record advance research of chips-for-spiking-neural-netw
 - **towards artificial general intelligence with hybird tianjic chip architecture** <font color=gray>(tsinghua university 2018)</font>
 - **tianjic: a unified and scalable chip bridging spike-based and continuous neural computation** <font color=gray>(tsinghua university 2020)</font>
 - always-on, sub-300nw, event-driven spiking neural network based on spike-driven clock-generation and clock- and power-gating for an ultra-low-power intelligent device <font color=gray>(columbia university, samsung electronics 2020)</font>
-- a 2.56-mm^2 718gops configurable spiking convolutional sparse coding accelerator in 40-nm cmos <font color=gray>(michigan university 2018)</font> <br>
+- a 2.56-mm^2 718gops configurable spiking convolutional sparse coding accelerator in 40-nm cmos <font color=gray>(michigan university 2018)</font>
 > gals, configurable convolutional core base on a 2x2 conv core. zero patch skipping to spike over **square patches**. token-based asynchronous fifo which support broadcast.
-- **A 65-nm Neuromorphic Image Classification Processor With Energy-Efficient Training Through Direct Spike-Only Feedback** <font color=gray>(Seoul National University 2020)</font> <br>
+- **A 65-nm Neuromorphic Image Classification Processor With Energy-Efficient Training Through Direct Spike-Only Feedback** <font color=gray>(Seoul National University 2020)</font>
 > single-spike-SD learning algorithm; spike-only-backward; **typical analog neurons could not provide enough bit precision for robust training**;
 - 
 
